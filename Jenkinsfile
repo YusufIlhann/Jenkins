@@ -8,6 +8,8 @@ pipeline {
                 echo 'not using shell within Jenkinsfile'
                 echo 'hi'
                 echo 'me'
+                read "your name"
+
             }
         }
     }
