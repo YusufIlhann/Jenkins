@@ -9,6 +9,7 @@ pipeline {
                 echo 'hi'
                 echo 'hello everyocgdfneererdgfdcbvcbfe'
                 echo "olsu"
+                echo *sdfgfd"
             }
         }
     }
